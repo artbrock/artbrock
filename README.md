@@ -5,13 +5,14 @@ I hack social systems via "Current-Sees" to establish and enable new patterns of
 So much of my work no longer happens on GitHub, yet there are probably still important things to find here from past and even current projects.
 
 Maybe you came here looking for:
- - [Holochain](https://github.com/holochain/holochain)
- - [Ceptr](https://github.com/metacurrency/ceptr)
- - The [Agile Learning Centers Starter Kit](https://github.com/AgileLearningCenters/StarterKit)
- - [MewsFeed](https://github.com/geekgene/MewsFeed) (as a P2P alternative to Twitter)
- - [Currency Design Space](https://github.com/artbrock/currencymap) for deep design of "Current-Sees"
+ - [Holochain](https://github.com/holochain/holochain) for building and running P2P Dapps
+ - [Ceptr](https://github.com/metacurrency/ceptr) as a total rewrite of our computing/currency/comms stack from the feminine reCEPTive capacity using nature's organizational patterns
+ - The [Agile Learning Centers Starter Kit](https://github.com/AgileLearningCenters/StarterKit) for self-directed learning communities, culture-hacking, and alt-ed resources
+ - [MewsFeed](https://github.com/geekgene/MewsFeed) as a P2P alternative to Twitter
+ - [Currency Design Space](https://github.com/artbrock/currencymap) for deep design of "Current-Sees" 
  - The [Cryptographic Autonomy License](https://github.com/holochain/cryptographic-autonomy-license) as the first software license appropriate for P2P and fully decentralized tech and the ONLY license that ensures the rights of end users around ownership of their data and control of their private keys.
- - The original drupal build for TimeBanks USA [CommunityWeaver](https://github.com/GeekGene/Community-Weaver)
+ - The original drupal build for TimeBank USA's [CommunityWeaver](https://github.com/GeekGene/Community-Weaver)
+
 
 <!--
 **artbrock/artbrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
