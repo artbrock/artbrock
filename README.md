@@ -13,6 +13,7 @@ Maybe you came here looking for:
  - The [Cryptographic Autonomy License](https://github.com/holochain/cryptographic-autonomy-license) as the first software license appropriate for P2P and fully decentralized tech and the ONLY license that ensures the rights of end users around ownership of their data and control of their private keys.
  - The original drupal build for TimeBank USA's [CommunityWeaver](https://github.com/GeekGene/Community-Weaver)
 
+You can learn more on [my personal web site](https://artbrock.com).
 
 <!--
 **artbrock/artbrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
